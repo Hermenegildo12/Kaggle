@@ -1,6 +1,6 @@
 # ¿Cuál es el precio del diamante 💎?
 
-<img src="Diamantes.ipynb" />
+<img src="dataset/diamante.jpg" />
 
 Primera competición dentro de Ironhack para ver quien se aproximaba más al valor real. La base de datos consistia en:
 - data.csv: training set (Para entrenar nuestro modelo)
