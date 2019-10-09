@@ -1,6 +1,6 @@
 # ¿Cuál es el precio del diamante 💎?
 
-Competición dentro de Ironhack para ver quien se aproximaba mas al valor real. La base de datos consistia en:
+Primera competición dentro de Ironhack para ver quien se aproximaba más al valor real. La base de datos consistia en:
 - data.csv: training set (Para entrenar nuestro modelo)
 - test.csv: test set (Para hacer predicciones)
 
