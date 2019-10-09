@@ -21,4 +21,4 @@ _las Features:_
 # Resolución: 
 Aplicación del modelo random forest, tras el analisis inicial de la base de datos.
 
-NOTA: Al eliminar los datos atípicos el modelo mejora las predicciones dentro del codigo pero al pasarlo a Kaggle empeora los mismos.
+NOTA: Al eliminar los datos atípicos el modelo mejora las predicciones dentro del código pero al pasarlo a Kaggle empeora los mismos.
