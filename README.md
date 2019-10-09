@@ -1,4 +1,5 @@
 # ¿Cuál es el precio del diamante 💎?
+
 Competición dentro de Ironhack para ver quien se aproximaba mas al valor real. La base de datos consistia en:
 - data.csv: training set (Para entrenar nuestro modelo)
 - test.csv: test set (Para hacer predicciones)
@@ -16,3 +17,6 @@ _las Features:_
 * **z**: depth in mm
 * **depth**: total depth percentage = z / mean(x, y) = 2 * z / (x + y) Valores:(43--79)
 * **table**: width of top of diamond relative to widest point Valores:(43--95)
+
+# Resolución: 
+Aplicación del modelo random forest, tras el analisis inicial de la base de datos.
