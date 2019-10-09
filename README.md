@@ -14,5 +14,5 @@ _las Features:_
 * **x**: length in mm
 * **y**: width in mm
 * **z**: depth in mm
-* **depth**: total depth percentage = z / mean(x, y) = 2 * z / (x + y) (43--79)
-* **table**: width of top of diamond relative to widest point (43--95)
+* **depth**: total depth percentage = z / mean(x, y) = 2 * z / (x + y) Valores:(43--79)
+* **table**: width of top of diamond relative to widest point Valores:(43--95)
